@@ -1,11 +1,11 @@
 body{
-	color: rgb(25,190,85);
-	font-family: arial;
-	margin: 0px; 
+	color: rgb(50,192,239);
+	font-family: sans-serif;
+	margin: 0px;
 }
 div{
 	min-height: 10vh;
-	width: 100vw;
+	width: 50vw;
 }
 h1,h2{
 	text-align: center;
