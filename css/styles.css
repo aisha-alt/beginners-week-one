@@ -5,7 +5,7 @@ body{
 }
 div{
 	min-height: 10vh;
-	width: 50vw;
+	width: 100vw;
 }
 h1,h2{
 	text-align: center;
@@ -68,5 +68,4 @@ li:hover{
 div.header{
 	background-color: rgb(0,0,0);
 	color: rgb(248,140,239);
-
 }
